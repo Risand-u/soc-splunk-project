@@ -4,7 +4,7 @@
 ## 🔐 Projects 
 
 ### 1. SOC Monitoring using Splunk 
-- Log analysis and threat detection 
+- Log analysis and threat detection  
 - Brute-force attack simulation
 
 ### 2. Network Traffic Analysis (Wireshark)
