@@ -13,7 +13,7 @@
 ### 3. Vulnerability Assessment (Nmap)
 - Port scanning and service detection
 
-### 4. Malware Analysis
+### 4. Malware Analysis 
 - File analysis using VirusTotal and hashing
 
 ### 5. File Integrity Verification
