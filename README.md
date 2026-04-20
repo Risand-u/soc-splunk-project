@@ -5,7 +5,7 @@
  
 ### 1. SOC Monitoring using Splunk 
 - Log analysis and threat detection   
-- Brute-force attack simulation
+- Brute-force attack simulation 
 
 ### 2. Network Traffic Analysis (Wireshark)
 - Packet inspection and protocol analysis 
