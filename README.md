@@ -8,7 +8,7 @@
 - Brute-force attack simulation
 
 ### 2. Network Traffic Analysis (Wireshark)
-- Packet inspection and protocol analysis
+- Packet inspection and protocol analysis 
 
 ### 3. Vulnerability Assessment (Nmap)
 - Port scanning and service detection
