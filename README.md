@@ -1,7 +1,7 @@
 # soc-splunk-project
 
 
-## 🔐 Projects 
+## 🔐 Projects  
 
 ### 1. SOC Monitoring using Splunk 
 - Log analysis and threat detection   
